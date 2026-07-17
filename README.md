@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MdSameer-1/leetcode_problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MdSameer-1/leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
