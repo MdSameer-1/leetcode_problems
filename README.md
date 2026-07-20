@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/MdSameer-1/leetcode_problems/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/MdSameer-1/leetcode_problems/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MdSameer-1/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/MdSameer-1/leetcode_problems/tree/master/0682-baseball-game) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
