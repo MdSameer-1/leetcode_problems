@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/MdSameer-1/leetcode_problems/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MdSameer-1/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/MdSameer-1/leetcode_problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/MdSameer-1/leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MdSameer-1/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/MdSameer-1/leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/MdSameer-1/leetcode_problems/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
