@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/MdSameer-1/leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MdSameer-1/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdSameer-1/leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/MdSameer-1/leetcode_problems/tree/master/2469-convert-the-temperature) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/MdSameer-1/leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MdSameer-1/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdSameer-1/leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
