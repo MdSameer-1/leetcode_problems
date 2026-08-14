@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/MdSameer-1/leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MdSameer-1/leetcode_problems/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
