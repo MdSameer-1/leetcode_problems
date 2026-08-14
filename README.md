@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MdSameer-1/leetcode_problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3151-special-array-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MdSameer-1/leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/MdSameer-1/leetcode_problems/tree/master/0561-array-partition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MdSameer-1/leetcode_problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Counting
 |  |
 | ------- |
