@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3151-special-array-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MdSameer-1/leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MdSameer-1/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
 | ------- |
