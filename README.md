@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/MdSameer-1/leetcode_problems/tree/master/2469-convert-the-temperature) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MdSameer-1/leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MdSameer-1/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdSameer-1/leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/MdSameer-1/leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3856-trim-trailing-vowels](https://github.com/MdSameer-1/leetcode_problems/tree/master/3856-trim-trailing-vowels) |
 ## Stack
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/MdSameer-1/leetcode_problems/tree/master/0561-array-partition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MdSameer-1/leetcode_problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
