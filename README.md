@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3856-trim-trailing-vowels](https://github.com/MdSameer-1/leetcode_problems/tree/master/3856-trim-trailing-vowels) |
 ## Stack
 |  |
 | ------- |
