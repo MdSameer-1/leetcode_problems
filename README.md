@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
+| [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MdSameer-1/leetcode_problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
+| [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting Sort
