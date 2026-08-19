@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MdSameer-1/leetcode_problems/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/MdSameer-1/leetcode_problems/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/MdSameer-1/leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
 | [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [1386-cinema-seat-allocation](https://github.com/MdSameer-1/leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
 | [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/MdSameer-1/leetcode_problems/tree/master/0561-array-partition) |
+| [1386-cinema-seat-allocation](https://github.com/MdSameer-1/leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MdSameer-1/leetcode_problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
+| [1386-cinema-seat-allocation](https://github.com/MdSameer-1/leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 ## Bubble Sort
 |  |
 | ------- |
