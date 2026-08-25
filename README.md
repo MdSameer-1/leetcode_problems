@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MdSameer-1/leetcode_problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MdSameer-1/leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/MdSameer-1/leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MdSameer-1/leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/MdSameer-1/leetcode_problems/tree/master/3917-count-indices-with-opposite-parity) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MdSameer-1/leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/MdSameer-1/leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
