@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MdSameer-1/leetcode_problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/MdSameer-1/leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/MdSameer-1/leetcode_problems/tree/master/1386-cinema-seat-allocation) |
 | [1656-design-an-ordered-stream](https://github.com/MdSameer-1/leetcode_problems/tree/master/1656-design-an-ordered-stream) |
 | [1748-sum-of-unique-elements](https://github.com/MdSameer-1/leetcode_problems/tree/master/1748-sum-of-unique-elements) |
+| [2032-two-out-of-three](https://github.com/MdSameer-1/leetcode_problems/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MdSameer-1/leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/MdSameer-1/leetcode_problems/tree/master/1386-cinema-seat-allocation) |
+| [2032-two-out-of-three](https://github.com/MdSameer-1/leetcode_problems/tree/master/2032-two-out-of-three) |
 ## Bubble Sort
 |  |
 | ------- |
