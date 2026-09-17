@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/MdSameer-1/leetcode_problems/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/MdSameer-1/leetcode_problems/tree/master/0836-rectangle-overlap) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/MdSameer-1/leetcode_problems/tree/master/2235-add-two-integers) |
