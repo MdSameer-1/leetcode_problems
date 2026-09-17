@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/MdSameer-1/leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MdSameer-1/leetcode_problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/MdSameer-1/leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/MdSameer-1/leetcode_problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/MdSameer-1/leetcode_problems/tree/master/2413-smallest-even-multiple) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MdSameer-1/leetcode_problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/MdSameer-1/leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/MdSameer-1/leetcode_problems/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/MdSameer-1/leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MdSameer-1/leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MdSameer-1/leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
