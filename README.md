@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MdSameer-1/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/MdSameer-1/leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/MdSameer-1/leetcode_problems/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1837-sum-of-digits-in-base-k](https://github.com/MdSameer-1/leetcode_problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MdSameer-1/leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/MdSameer-1/leetcode_problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/MdSameer-1/leetcode_problems/tree/master/2235-add-two-integers) |
